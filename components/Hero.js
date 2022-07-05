@@ -36,7 +36,7 @@ const Hero = () => {
               autoComplete="off"
               className=" border-2 border-gray-400 text-black  rounded-md text-xl px-4 py-2   outline-none"
             />
-            <div className="flex gap-3">
+            <div className="flex gap-2">
               <input type="checkbox" />
               <h1>Remember Me</h1>
             </div>
